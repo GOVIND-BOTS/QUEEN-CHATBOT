@@ -44,9 +44,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <p align="center"><a href="https://t.me/indian_chatting_club_offical"> <img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 <p align="center"><a href="https://t.me/tha_govind_op"> <img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
-<h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/GOVIND-BOTS/QUEEN-CHATBOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username= GOVIND-BOTS-0981&repo=Queen&theme=chartreuse-dark"></a>
-
 
 <h3 align="center">──「 sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 」──</h3>
 
